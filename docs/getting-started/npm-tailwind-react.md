@@ -48,7 +48,7 @@ In order to get this going we'll need to get your NPM JS account setup and confi
 
 We'll use the same repository we were working with in the last tutorial, add to it and tweak it.
 
-Let's start by adding a build pipeline to generate the NPM package. We'll do this by first creating a new pipeline using one of our LCU packages:
+Let us start by adding a build pipeline to generate the NPM package. We'll do this by first creating a new pipeline using one of our LCU packages:
 
 ```cli
 fathym lcu @fathym-it/lcu-eac-pipelines-react-npm
